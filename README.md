@@ -2,7 +2,7 @@
 
 * 🔭 Currently working on WordPress projects
 * 💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
-* 🥅 2020 Goals: Learning more technologies to improve my skills on **Web Developer**
+* 🥅 2020 goals: to improve  my skills and evolve as a **Web Developer**
 
 ### Connect with me:
 
