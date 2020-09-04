@@ -6,6 +6,7 @@
 
 ### Connect with me:
 
+<p>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -14,19 +15,7 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
-
-
-<br />
-
-⎽⎽⎽⎽⎽⎽⎽
-
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark" />
-
-⎽⎽⎽⎽⎽⎽⎽
-
-### Most common **Languages** on my projects
-
-<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 [website]: https://daniel-sousa.com
 [facebook]: https://facebook.com/tutods2014
@@ -35,6 +24,15 @@
 [instagram]: https://instagram.com/tutods2014
 [linkedin]: https://www.linkedin.com/in/daniel-sousa-tutods/
 [gitlab]: https://gitlab.com/jdaniel.asousa
+
+⎽⎽⎽⎽⎽⎽⎽
+
+### About my repos.:
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark" />
+
+
+<img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" />
 
 ⎽⎽⎽⎽⎽⎽⎽
 
