@@ -1,3 +1,12 @@
+[website]: https://daniel-sousa.com
+[facebook]: https://facebook.com/tutods2014
+[twitter]: https://twitter.com/tutods
+[youtube]: https://youtube.com/tutods2014
+[instagram]: https://instagram.com/tutods2014
+[linkedin]: https://www.linkedin.com/in/daniel-sousa-tutods/
+[gitlab]: https://gitlab.com/jdaniel.asousa
+
+
 ### Hello, I'm **Daniel Sousa** @TutoDS! 👋 🇵🇹
 
 -   🔭 Currently working on WordPress projects
@@ -17,16 +26,9 @@
 [<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 </p>
 
+<br/>
 
-[website]: https://daniel-sousa.com
-[facebook]: https://facebook.com/tutods2014
-[twitter]: https://twitter.com/tutods
-[youtube]: https://youtube.com/tutods2014
-[instagram]: https://instagram.com/tutods2014
-[linkedin]: https://www.linkedin.com/in/daniel-sousa-tutods/
-[gitlab]: https://gitlab.com/jdaniel.asousa
-
-<p>⎽⎽⎽⎽⎽⎽⎽</p>
+⎽⎽⎽⎽⎽⎽⎽
 
 ### Me & My Repositories:
 
