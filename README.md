@@ -1,12 +1,13 @@
 ### Hello, I'm **Daniel Sousa** @TutoDS! 👋 🇵🇹
 
-* 🔭 Currently working on WordPress projects
-* 💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
-* 🥅 2020 goals: to improve  my skills and evolve as a **Web Developer**
+-   🔭 Currently working on WordPress projects
+-   💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
+-   🥅 2020 goals: to improve my skills and evolve as a **Web Developer**
 
 ### Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -14,14 +15,14 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 
-<br />
+
 <br />
 
----
+⎽⎽⎽⎽⎽⎽⎽
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark" />
 
----
+⎽⎽⎽⎽⎽⎽⎽
 
 ### Most common **Languages** on my projects
 
@@ -35,7 +36,7 @@
 [linkedin]: https://www.linkedin.com/in/daniel-sousa-tutods/
 [gitlab]: https://gitlab.com/jdaniel.asousa
 
-----
+⎽⎽⎽⎽⎽⎽⎽
 
 ### Skills
 
@@ -58,11 +59,12 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdow"/>
 </p>
 
-____
+⎽⎽⎽⎽⎽⎽⎽
 
 ### My Setup
 
 #### Laptop
+
 <p>
 <a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
 </p>
