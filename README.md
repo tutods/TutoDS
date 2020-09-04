@@ -57,3 +57,16 @@
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdow"/>
 </p>
+
+____
+
+### My Setup
+
+#### Laptop
+<p>
+<a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
+</p>
+
+#### Desktop
+
+<p><a href="#"><img src="https://img.shields.io/badge/intel-core%20i5%209400F-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Desktop"></a> <a href="#"><img src="https://img.shields.io/badge/amd-Radeon%20RX%20580-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" alt="RX580"></a> <a href="#"><img src="https://img.shields.io/badge/windows-10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"></a> <a href="#"><img src="https://img.shields.io/badge/macOS-Catalina-blue?&style=for-the-badge&logo=apple&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Linux-Linux%20Mint%20Cinnamon-%2343853D?&style=for-the-badge&logo=linux&logoColor=white"></a></p>
