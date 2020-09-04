@@ -4,7 +4,7 @@
 -   💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
 -   🥅 2020 goals: to improve my skills and evolve as a **Web Developer**
 
-### Connect with me:
+### Folow me:
 
 <p>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -17,6 +17,8 @@
 [<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 </p>
 
+<br/>
+
 [website]: https://daniel-sousa.com
 [facebook]: https://facebook.com/tutods2014
 [twitter]: https://twitter.com/tutods
@@ -27,7 +29,7 @@
 
 ⎽⎽⎽⎽⎽⎽⎽
 
-### About my repos.:
+### Me & My Repositories:
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark" />
 
