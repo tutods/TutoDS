@@ -27,8 +27,9 @@
 </p>
 
 <br/>
+<br/>
 
-⎽⎽⎽⎽⎽⎽⎽
+━━━━━━━━━━━
 
 ### Me & My Repositories:
 
@@ -37,7 +38,7 @@
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" />
 
-⎽⎽⎽⎽⎽⎽⎽
+━━━━━━━━━━━
 
 ### Skills
 
@@ -60,7 +61,7 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdow"/>
 </p>
 
-⎽⎽⎽⎽⎽⎽⎽
+━━━━━━━━━━━
 
 ### My Setup
 
