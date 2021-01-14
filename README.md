@@ -18,12 +18,12 @@
 <p>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Facebook" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/9251394351556105319-512.png" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16438666591561032650-512.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/15792152941556105325-512.png" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/19042250241579774616-512.png" />][instagram]
+[<img align="left" alt="YouTube" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/12069381451556105347-512.png" />][youtube]
+[<img align="left" alt="GitLab" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/11009343661540553611-512.png" />][gitlab]
 </p>
 
 <br/>
@@ -37,7 +37,7 @@
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" />
 
-━━━━━━━━━━━
+
 
 ### Skills
 
@@ -61,7 +61,6 @@
 </p>
 
 
-
 ### My Setup
 
 #### Laptop
@@ -69,7 +68,3 @@
 <p>
 <a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
 </p>
-
-#### Desktop
-
-<p><a href="#"><img src="https://img.shields.io/badge/intel-core%20i5%209400F-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" alt="Desktop"></a> <a href="#"><img src="https://img.shields.io/badge/amd-Radeon%20RX%20580-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" alt="RX580"></a> <a href="#"><img src="https://img.shields.io/badge/windows-10-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10"></a> <a href="#"><img src="https://img.shields.io/badge/macOS-Catalina-blue?&style=for-the-badge&logo=apple&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Linux-Linux%20Mint%20Cinnamon-%2343853D?&style=for-the-badge&logo=linux&logoColor=white"></a></p>
