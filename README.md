@@ -18,12 +18,12 @@
 <p>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 
-[<img align="left" alt="Facebook" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/9251394351556105319-512.png" />][facebook]
-[<img align="left" alt="Twitter" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16438666591561032650-512.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/15792152941556105325-512.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/6590558241561032669-512.png" />][instagram]
-[<img align="left" alt="YouTube" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/12069381451556105347-512.png" />][youtube]
-[<img align="left" alt="GitLab" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/11009343661540553611-512.png" />][gitlab]
+[<img src="https://img.shields.io/badge/Facebook%20-%232671E5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>][facebook]
+[<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>][twitter]
+[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>][linkedin]
+[<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>][instagram]
+[<img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>][youtube]
+[<img src="https://img.shields.io/badge/Gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>][gitlab]
 </p>
 
 <br/>
@@ -58,7 +58,9 @@
   <img src="https://img.shields.io/badge/mysql-%230081CB.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdow"/>
+  <img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD/>
 </p>
+
 
 
 ### My Setup
