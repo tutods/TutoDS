@@ -21,7 +21,7 @@
 [<img align="left" alt="Facebook" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/9251394351556105319-512.png" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/16438666591561032650-512.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/15792152941556105325-512.png" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/19042250241579774616-512.png" />][instagram]
+[<img align="left" alt="Instagram" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/6590558241561032669-512.png" />][instagram]
 [<img align="left" alt="YouTube" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/12069381451556105347-512.png" />][youtube]
 [<img align="left" alt="GitLab" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/11009343661540553611-512.png" />][gitlab]
 </p>
