@@ -63,8 +63,6 @@
 
 ### My Setup
 
-#### Laptop
-
 <p>
 <a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
 </p>
