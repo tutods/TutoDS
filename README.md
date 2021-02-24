@@ -1,8 +1,8 @@
 [website]: https://daniel-sousa.com
-[facebook]: https://facebook.com/dsousa_12
+[facebook]: https://facebook.com/tutods2014
 [twitter]: https://twitter.com/tutods
 [youtube]: https://youtube.com/tutods2014
-[instagram]: https://instagram.com/tutods2014
+[instagram]: https://instagram.com/dsousa_12
 [linkedin]: https://www.linkedin.com/in/daniel-sousa-tutods/
 [gitlab]: https://gitlab.com/jdaniel.asousa
 
