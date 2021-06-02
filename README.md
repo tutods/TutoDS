@@ -87,5 +87,5 @@
 ### My Setup
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%20I5%22-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
+<a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22%20I5-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
 </p>
