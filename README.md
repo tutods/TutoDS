@@ -7,13 +7,13 @@
 [gitlab]: https://gitlab.com/jdaniel.asousa
 
 
-### Hello, I'm **Daniel Sousa** @TutoDS! 👋 🇵🇹
+# Hello, I'm **Daniel Sousa** @TutoDS! 👋 🇵🇹
 
 -   🔭 Currently working on WordPress projects
 -   💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
 -   🥅 2021 goals: to improve my skills and evolve as a **Web Developer**
 
-### Folow me:
+## Folow me:
 
 <p>
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -28,7 +28,7 @@
 
 <br/>
 
-### Me & My Repositories:
+## Me & My Repositories:
 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark" />
 
@@ -37,9 +37,9 @@
 
 <br/>
 
-### Skills
+## Skills
 
-#### Back-end
+### Back-end
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /></a>
@@ -47,7 +47,7 @@
   <a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
 </p>
 
-#### Databases
+### Databases
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/mysql-%230081CB.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
@@ -55,7 +55,7 @@
   <a href="#"><img src ="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
 </p>
 
-#### Front-end
+### Front-end
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
@@ -63,7 +63,7 @@
   <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
 </p>
 
-#### Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
@@ -74,7 +74,7 @@
   <a href="#"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
 </p>
 
-#### Others
+### Others
 <p>
   <a href="#"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
@@ -84,7 +84,7 @@
 
 <br />
 
-### My Setup
+## My Setup
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22%20I5-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
