@@ -11,7 +11,7 @@
 
 -   🔭 Currently working on WordPress projects
 -   💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
--   🥅 2020 goals: to improve my skills and evolve as a **Web Developer**
+-   🥅 2021 goals: to improve my skills and evolve as a **Web Developer**
 
 ### Folow me:
 
