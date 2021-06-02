@@ -27,7 +27,6 @@
 </p>
 
 <br/>
-<br/>
 
 ### Me & My Repositories:
 
@@ -36,33 +35,57 @@
 
 <img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" />
 
-
+<br/>
 
 ### Skills
+
+#### Back-end
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /></a>
   <a href="#"><img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" alt="ExpressJS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" akt="HTML"/></a>
   <a href="#"><img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="MaterialUI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+</p>
+
+#### Databases
+
+<p>
   <a href="#"><img src="https://img.shields.io/badge/mysql-%230081CB.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="#"><img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="#"><img src ="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+</p>
+
+#### Front-end
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" akt="HTML"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+</p>
+
+#### Frameworks & Libraries
+
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Chakra%20UI%20-%23319795.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="MaterialUI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+</p>
+
+#### Others
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" alt="Markdow"/></a>
   <a href="#"><img src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="Adobe XD"/></a>
 </p>
 
+<br />
 
 ### My Setup
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
+<a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%20I5%22-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
 </p>
