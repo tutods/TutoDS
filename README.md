@@ -32,9 +32,9 @@
 -   🥅 2021 goals: to improve my skills and evolve as a **Web Developer**
 
 
-<div style="margin: 40px 0; text-align: right;">
-<em style="font-size: 2rem">"Creativy is just connecting things."</em>
-<p style="font-size: 1.5rem; font-weight: bold;">Steve Jobs</p>
+<div style="margin: 40px 0; text-align: right;" align="right">
+<em style="font-size: 30px">"Creativy is just connecting things."</em>
+<p style="font-size: 18px; font-weight: bold;">Steve Jobs</p>
 </div>
 
 
