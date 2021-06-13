@@ -100,9 +100,9 @@
 </div>
 
 
-<h2 style="margin-top: 40px;border: none !important">🖥💻 Setup</h2>
+<!--<h2 style="margin-top: 40px;border: none !important">🖥💻 Setup</h2>
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/apple-macbook%20pro%2013%22%20I5-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
 <a href="#"><img src="https://img.shields.io/badge/apple-imac%20%2027%22-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" alt="Macbook"></a>
-</p>
+</p>-->
