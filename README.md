@@ -1,28 +1,28 @@
 <h1 style="border: none !important">Hello, I'm <strong>Daniel Sousa</strong> @TutoDS! 👋 🇵🇹</h1>
 
 <a href="https://github.com/TutoDS">
-      <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/solrachix" />
+      <img alt="Github Badge" src="https://img.shields.io/badge/-Github-1E4174?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/solrachix" />
 </a>
 <a href="https://www.linkedin.com/in/daniel-sousa-tutods/">
-      <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
+      <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-1E4174?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/tutods/">
-      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-5659EB?style=for-the-badge&logo=twitter&logoColor=white" />
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1E4174?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://facebook.com/tutods2014">
-      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-5659EB?style=for-the-badge&logo=facebook&logoColor=white" />
+      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1E4174?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://youtube.com/tutods2014">
-      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-5659EB?style=for-the-badge&logo=youtube&logoColor=white" />
+      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-1E4174?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://instagram.com/tutods2014">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-5659EB?style=for-the-badge&logo=Instagram&logoColor=white" />
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-1E4174?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 <a href="https://gitlab.com/jdaniel.asousa">
-      <img alt="GitLab" src="https://img.shields.io/badge/GitLab-5659EB?style=for-the-badge&logo=GitLab&logoColor=white" />
+      <img alt="GitLab" src="https://img.shields.io/badge/GitLab-1E4174?style=for-the-badge&logo=GitLab&logoColor=white" />
 </a>
 <a href="https://app.rocketseat.com.br/me/tutods14">
-      <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-5659EB?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
+      <img alt="Rocketseat" src="https://img.shields.io/badge/Rocketseat-1E4174?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==" />
 </a>
 
 <br /><br />
