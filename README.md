@@ -27,9 +27,9 @@
 
 <br /><br />
 
--   🔭 Currently working on WordPress and React projects
+-   🔭 Currently working on React and Node.js projects
 -   💡 I’m learning more about web technologies, like **CSS**, **React**, etc.
--   🥅 2021 goals: to improve my skills and evolve as a **Web Developer**
+-   🥅 2022 goals: to improve my skills and evolve as a **Web Developer**
 
 
 <div style="margin: 40px 0; text-align: right;" align="right">
