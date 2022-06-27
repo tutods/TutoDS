@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/daniel-sousa-tutods/">
       <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-1E4174?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/tutods/">
+<a href="https://twitter.com/dsousa_12/">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1E4174?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://facebook.com/tutods2014">
