@@ -86,7 +86,7 @@
   <a href="#"><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></a>
   <a href="#"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Chakra%20UI%20-%23319795.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="MaterialUI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=mui&logoColor=white" alt="MaterialUI"/></a>
   <a href="#"><img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
 </p>
 
