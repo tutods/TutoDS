@@ -34,6 +34,8 @@
 
 <h2 style="border: none !important">Me & My Repositories</h2>
 
+<div><a href="https://app.daily.dev/tutods"><img src="https://api.daily.dev/devcards/v2/aSFn6iAbVCOz8MPwzpQs2.png?r=hdv&type=wide" width="652" alt="Daniel Sousa @TutoDS's Dev Card"/></a></div>
+
 <div><a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark" /></a></div>
 
 <div><a href="#"><img alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" /></a></div>
