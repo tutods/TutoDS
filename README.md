@@ -41,11 +41,11 @@ PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe 
 
 ---
 
-### Writing
+### Recent Articles on Medium
 
-I also publish on Medium — longer-form articles about development, tooling, and tech workflows.
-
-[![Medium](https://img.shields.io/badge/Medium-1E4174?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dsousa_12)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/0" alt="Recent Article 0" /></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/1" alt="Recent Article 1" /></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/2" alt="Recent Article 2" /></a>
 
 ---
 
