@@ -19,9 +19,9 @@ I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.j
 - Obsessed with developer tooling, type safety, and clean architecture
 
 ### Currently
-- Preparing TutoDS v1 launch: Portuguese tech publication for everyday developers
+- Preparing TutoDS v1 launch: Portuguese tech publication with tech reviews, tutorials, and buying guides for everyday users
 - Learning SolidJS to compare reactivity approaches (React vs. Solid)
-- Open to feedback on early TutoDS drafts or TypeScript architecture questions
+- Open to feedback on early TutoDS drafts or content ideas
 
 ---
 
