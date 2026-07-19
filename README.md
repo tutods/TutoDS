@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm **Daniel Sousa** <sub>@TutoDS</sub> 🇵🇹
+# Hey, I'm **Daniel Sousa** (@TutoDS) 🇵🇹
 
 **Full-Stack Developer & Tech Content Creator**
 
