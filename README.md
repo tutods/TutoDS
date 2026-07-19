@@ -22,22 +22,53 @@ I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.j
 
 ### Tech Stack
 
-| Layer | Tools |
-|:------|:------|
-| **Frontend** | React 19, TanStack Start, TanStack Router, TanStack Query, TanStack Table, TanStack Form, Tailwind CSS v4, shadcn/ui |
-| **Backend** | Node.js, NestJS, Express |
-| **Database** | PostgreSQL, Prisma |
-| **CMS** | Payload CMS v3, Sanity |
-| **Auth** | Better Auth |
-| **Validation** | Zod, React Hook Form |
-| **Testing** | Vitest, Playwright |
-| **Languages** | TypeScript, JavaScript, SQL |
-| **Tooling** | pnpm, Biome, Turborepo, Nx, Docker, Doppler, Git, GitHub Actions |
-| **Design** | Figma, OKLCH color system |
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Start](https://img.shields.io/badge/TanStack_Start-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-20232A?style=for-the-badge&logo=reactrouter&logoColor=CA4245)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-20232A?style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+**Database & CMS**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+
+**Tooling**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Testing**
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### Previously Worked With
 
-PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe XD
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
 ---
 
