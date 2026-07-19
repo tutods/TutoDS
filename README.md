@@ -59,9 +59,15 @@ PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe 
 <br />
 <br />
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TutoDS&theme=dark&hide_border=true" />
+
 <br />
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" />
+
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TutoDS&theme=github-dark&hide_border=true" />
+
+<br />
+
+<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=TutoDS&style=for-the-badge&color=1E4174" />
 
 </div>
 
