@@ -45,7 +45,6 @@ PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/0" alt="Recent Article 0" /></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/1" alt="Recent Article 1" /></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dsousa_12/2" alt="Recent Article 2" /></a>
 
 ---
 
@@ -63,22 +62,6 @@ PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe 
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TutoDS&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 <br />
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TutoDS&layout=compact&theme=dark&hide_border=true" />
-
-<br />
-
-### Trophies
-
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=TutoDS&theme=darkhub&no-frame=true&column=7&margin-w=15" />
-
-<br />
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
