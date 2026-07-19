@@ -4,7 +4,7 @@
 
 **Full-Stack Developer & Tech Content Creator**
 
-Building [TutoDS](https://tutods.net) — a Portuguese technology publication with reviews, tutorials, and guides for everyone.
+Building [TutoDS](https://tutods.net) — a Portuguese technology publication with reviews, tutorials, and guides on technology for everyday users.
 
 </div>
 
@@ -12,7 +12,7 @@ Building [TutoDS](https://tutods.net) — a Portuguese technology publication wi
 
 ### About Me
 
-I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.js, and everything in between. I run [tutods.net](https://tutods.net), a tech publication with reviews, tutorials, and guides on technology for everyday users.
+I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.js, and everything in between. I'm building [TutoDS](https://tutods.net), a tech publication with reviews, tutorials, and guides on technology for everyday users.
 
 - Building with **TanStack Start**, **Payload CMS**, and **PostgreSQL**
 - Writing in **European Portuguese** (pt-PT) for a Portuguese-speaking audience
