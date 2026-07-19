@@ -6,6 +6,8 @@
 
 Building [TutoDS](https://tutods.net) — a Portuguese technology publication with reviews, tutorials, and guides on technology for everyday users.
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1E4174&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;TypeScript+Enthusiast;Tech+Content+Creator;Building+TutoDS" alt="Typing SVG" /></a>
+
 </div>
 
 ---
@@ -24,11 +26,15 @@ I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.j
 
 | Layer | Tools |
 |:------|:------|
-| **Frontend** | React, TanStack Start, TanStack Router, TanStack Query, Tailwind CSS, shadcn/ui |
+| **Frontend** | React, TanStack Start, TanStack Router, TanStack Query, TanStack Table, TanStack Form, Tailwind CSS, shadcn/ui |
 | **Backend** | Node.js, NestJS, Express |
 | **Database** | PostgreSQL, Prisma |
 | **CMS** | Payload CMS, Sanity |
-| **Tooling** | TypeScript, pnpm, Biome, Turborepo, Docker, GitHub Actions, Vitest, Playwright, Figma |
+| **Auth** | Better Auth |
+| **Validation** | Zod, React Hook Form |
+| **Testing** | Vitest, Playwright |
+| **Languages** | TypeScript, JavaScript, SQL |
+| **Tooling** | pnpm, Biome, Turborepo, Nx, Docker, Doppler, Git, GitHub Actions |
 
 ### Previously Worked With
 
@@ -47,22 +53,28 @@ PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe 
 
 ### Stats
 
-<a href="https://app.daily.dev/tutods">
-  <img src="https://api.daily.dev/devcards/v2/aSFn6iAbVCOz8MPwzpQs2.png?r=hdv&type=wide" width="652" alt="Daniel Sousa @TutoDS's Dev Card" />
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://app.daily.dev/tutods">
+        <img src="https://api.daily.dev/devcards/v2/aSFn6iAbVCOz8MPwzpQs2.png?r=hdv&type=wide" width="652" alt="Daniel Sousa @TutoDS's Dev Card" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TutoDS&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-<br />
-<br />
+### Contribution Snake
 
-<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TutoDS&theme=dark&hide_border=true" />
-
-<br />
-
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TutoDS&theme=github-dark&hide_border=true" />
-
-<br />
-
-<img alt="Profile Views" src="https://komarev.com/ghpvc/?username=TutoDS&style=for-the-badge&color=1E4174" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
