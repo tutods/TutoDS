@@ -12,7 +12,7 @@ Building [TutoDS](https://tutods.net) — a Portuguese technology publication wi
 
 ### About Me
 
-I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.js, and everything in between. I run [tutods.net](https://tutods.net), a tech publication where I write about tools, workflows, and software for everyday technology users.
+I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.js, and everything in between. I run [tutods.net](https://tutods.net), a tech publication with reviews, tutorials, and guides on technology for everyday users.
 
 - Building with **TanStack Start**, **Payload CMS**, and **PostgreSQL**
 - Writing in **European Portuguese** (pt-PT) for a Portuguese-speaking audience
