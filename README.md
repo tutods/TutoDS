@@ -4,7 +4,7 @@
 
 **Full-Stack Developer & Tech Content Creator**
 
-Building [TutoDS](https://tutods.net) — a Portuguese technology publication with reviews, tutorials, and guides for creators.
+Building [TutoDS](https://tutods.net) — a Portuguese technology publication with reviews, tutorials, and guides for everyone.
 
 </div>
 
@@ -12,7 +12,7 @@ Building [TutoDS](https://tutods.net) — a Portuguese technology publication wi
 
 ### About Me
 
-I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.js, and everything in between. I run [tutods.net](https://tutods.net), a tech publication where I write about tools, workflows, and software that help creators do better work.
+I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.js, and everything in between. I run [tutods.net](https://tutods.net), a tech publication where I write about tools, workflows, and software for everyday technology users.
 
 - Building with **TanStack Start**, **Payload CMS**, and **PostgreSQL**
 - Writing in **European Portuguese** (pt-PT) for a Portuguese-speaking audience
@@ -38,6 +38,14 @@ I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.j
 ### Previously Worked With
 
 PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe XD
+
+---
+
+### Writing
+
+I also publish on Medium — longer-form articles about development, tooling, and tech workflows.
+
+[![Medium](https://img.shields.io/badge/Medium-1E4174?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dsousa_12)
 
 ---
 
@@ -85,5 +93,6 @@ PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe 
 [![Twitter](https://img.shields.io/badge/Twitter-1E4174?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/dsousa_12/)
 [![YouTube](https://img.shields.io/badge/YouTube-1E4174?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/tutods2014)
 [![Instagram](https://img.shields.io/badge/Instagram-1E4174?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dsousa_12)
+[![Medium](https://img.shields.io/badge/Medium-1E4174?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dsousa_12)
 
 </div>
