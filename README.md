@@ -1,12 +1,10 @@
 <div align="center">
 
-# Hey, I'm **Daniel Sousa** (@TutoDS) 🇵🇹
+# Daniel Sousa (@TutoDS) 🇵🇹
 
 **Full-Stack Developer & Tech Content Creator**
 
 Building [TutoDS](https://tutods.net) — a Portuguese technology publication with reviews, tutorials, and guides on technology for everyday users.
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1E4174&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;TypeScript+Enthusiast;Tech+Content+Creator;Building+TutoDS" alt="Typing SVG" /></a>
 
 </div>
 
@@ -51,30 +49,7 @@ PHP, Laravel, Angular, Bootstrap, MySQL, MongoDB, Chakra UI, Material UI, Adobe 
 
 <div align="center">
 
-### Stats
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://app.daily.dev/tutods">
-        <img src="https://api.daily.dev/devcards/v2/aSFn6iAbVCOz8MPwzpQs2.png?r=hdv&type=wide" width="652" alt="Daniel Sousa @TutoDS's Dev Card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TutoDS&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/TutoDS/TutoDS/output/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TutoDS&theme=dark&hide_border=true" />
 
 </div>
 
