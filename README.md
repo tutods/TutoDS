@@ -24,16 +24,11 @@ I'm a Portuguese developer focused on the TypeScript ecosystem — React, Node.j
 
 | Layer | Tools |
 |:------|:------|
-| **Frontend** | React 19, TanStack Start, TanStack Router, TanStack Query, TanStack Table, TanStack Form, Tailwind CSS v4, shadcn/ui |
+| **Frontend** | React, TanStack Start, TanStack Router, TanStack Query, Tailwind CSS, shadcn/ui |
 | **Backend** | Node.js, NestJS, Express |
 | **Database** | PostgreSQL, Prisma |
-| **CMS** | Payload CMS v3, Sanity |
-| **Auth** | Better Auth |
-| **Validation** | Zod, React Hook Form |
-| **Testing** | Vitest, Playwright |
-| **Languages** | TypeScript, JavaScript, SQL |
-| **Tooling** | pnpm, Biome, Turborepo, Nx, Docker, Doppler, Git, GitHub Actions |
-| **Design** | Figma, OKLCH color system |
+| **CMS** | Payload CMS, Sanity |
+| **Tooling** | TypeScript, pnpm, Biome, Turborepo, Docker, GitHub Actions, Vitest, Playwright, Figma |
 
 ### Previously Worked With
 
